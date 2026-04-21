@@ -1,0 +1,74 @@
+{
+  "tabs": [
+    {
+      "id": "critiques",
+      "label": "Critiques",
+      "description": "Short critical essays on Buddhist texts, interpretations, and contemporary scholarship.",
+      "articles": [
+        {
+          "slug": "a-note-on-dependent-origination",
+          "title": "A Note on Dependent Origination",
+          "date": "2026-04-21",
+          "description": "On the common conflation of paṭicca-samuppāda with a cosmological narrative, and why a process reading is more faithful to the suttas.",
+          "tags": ["Pāli Canon", "Dependent Origination", "Critique"]
+        }
+      ]
+    },
+    {
+      "id": "series",
+      "label": "Series",
+      "description": "Extended reading series working through major texts and collections.",
+      "articles": [
+        {
+          "slug": "majjhima-nikaya-readings-pt1",
+          "title": "Majjhima Nikāya Readings — Part I",
+          "date": "2026-04-21",
+          "description": "Beginning a close reading of the Middle-Length Discourses, starting with the Mūlapariyāya Sutta (MN 1).",
+          "tags": ["Majjhima Nikāya", "Reading Series"]
+        }
+      ]
+    },
+    {
+      "id": "papers",
+      "label": "Papers",
+      "description": "Academic-style papers and research notes on Pāli, Sanskrit, and Buddhist philosophy.",
+      "articles": [
+        {
+          "slug": "the-two-truths-doctrine",
+          "title": "The Two Truths Doctrine in Early Buddhism",
+          "date": "2026-04-21",
+          "description": "An examination of sammuti-sacca and paramattha-sacca as found in the Abhidhamma Piṭaka and commentarial literature.",
+          "tags": ["Abhidhamma", "Two Truths", "Pāli", "Philosophy"]
+        }
+      ]
+    },
+    {
+      "id": "translations",
+      "label": "Translations",
+      "description": "Original translations from Pāli, Sanskrit, and Classical Chinese Buddhist texts.",
+      "articles": [
+        {
+          "slug": "dhammapada-verse-1-2",
+          "title": "Dhammapada Verses 1–2: The Twin Verses",
+          "date": "2026-04-21",
+          "description": "A new translation of the opening verses of the Dhammapada with annotation.",
+          "tags": ["Dhammapada", "Pāli", "Translation"]
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "label": "Analysis",
+      "description": "Close textual analysis of Nikāya suttas and Abhidhamma structures.",
+      "articles": [
+        {
+          "slug": "mn1-mulapariyaya-analysis",
+          "title": "MN 1 Mūlapariyāya: Structural Analysis",
+          "date": "2026-04-21",
+          "description": "Structural analysis of the Mūlapariyāya Sutta's four-level schema of perception and its implications for Abhidhamma psychology.",
+          "tags": ["MN 1", "Nikāya", "Abhidhamma", "Analysis"]
+        }
+      ]
+    }
+  ]
+}
